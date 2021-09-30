@@ -1,2 +1,2 @@
-Hi, My Name is Prajesh Sortee One of the Tech lover
-Mechanical engineer and Made About Simplicity
+Hi, My Name is Prajesh Sortee 
+Love to have fun with maths and coding
