@@ -2,9 +2,9 @@ This is the Spark Foundation internship.
 I have completed Task no.1,Task no.2 and Task no.6.
 
 Task-1 :- Supervised Learning(Linear Regression)
-Objective :-
+Objective :- 
 
-Task-2 :- Unsupervised Learning (KMeans Clustering).(Youtube Link : 
+Task-2 :- Unsupervised Learning (KMeans Clustering).(Youtube Link : https://youtu.be/LT1uOiSta5A)
 Objective :- Find the optimum number of clusters for Given Iris dataset and Visualize it.
 
 Task-6 :- Supervised Learning (Decision Tree Classification)
